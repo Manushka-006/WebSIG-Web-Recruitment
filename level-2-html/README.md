@@ -1,0 +1,11 @@
+What HTML does?
+HTML-Hypertext Markup Language:It is used to creat web pages.It act as the skeleton of webpage that structures different contents like 
+text,image,video and link using tags.
+Difference Between div and semantic tags.
+Sementaic tags improves the readablity of the code,it clearly describes the content they contain to browser and developer.
+Div is a non semantic tag which does not describe the content it contains.
+The most confused part was:
+First I did not get the correct idea of the semantic tags,I got confused because,
+I did not understand where it makes the change So I refered some youtube videos to learn about and got the the correct idea.
+
+
